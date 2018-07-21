@@ -1,6 +1,6 @@
 # Currency Converter
 
-Simple currency converter that converts a user’s selected base currency and outputs the equivalent money value of the exchange currency using the current day’s rate.
+Simple currency converter that converts a user’s selected base currency and outputs the equivalent money value of the exchange currency using the current day’s rate using React.
 
 ## Roadmap
 
